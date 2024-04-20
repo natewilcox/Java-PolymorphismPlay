@@ -7,4 +7,4 @@ This is a sample project designed to help you practice and understand the concep
 To get started with this project, clone the repository to your local machine.
 
 ```bash
-git clone https://github.com/username/java-polymorphism-practice.git
+git clone https://github.com/natewilcox/Java-PolymorphismPlay.git
