@@ -14,5 +14,4 @@ public class PolymorphismPlay {
     public static void pokeAnimal(Animal animal) {
         animal.talk();
     }
-
 }
